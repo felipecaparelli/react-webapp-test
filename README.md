@@ -17,7 +17,7 @@ This should contain a component that will allow the practitioner to input his/he
 This section shows the results of all the patients assigned to that practitioner, showing a scrollable list (if it is needed) and the name, DoB, the diabetes type and a button to navigate to the graph section
 
 ### Glucose Measure Chart
-Using the data for each patient a graph showing the evolution of a single day is generated using the ‘glucoseMesures’ (GM), the graphic is created dynamically using the ‘ranges’ value for each patient. 
+Using the data for each patient a graph showing the evolution of a single day is generated using the ‘glucoseMeasures’ (GM), the graphic is created dynamically using the ‘ranges’ value for each patient. 
 Each glucose measure is be represented by a cross and on roll over should show the data for that GM and it uses a different color depending on its level.
 
 
